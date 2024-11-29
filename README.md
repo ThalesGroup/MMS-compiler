@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14247332.svg)](https://doi.org/10.5281/zenodo.14247332) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9749/badge)](https://www.bestpractices.dev/projects/9749)
+
 # MMS Compiler
 
 The **MMS Compiler** is a command-line tool which can be used to generate Multimedia Messaging Service (MMS) files based on a predefined set of input files: text, images, audio, video. This tool can be used in Windows or Linux (x86).
