@@ -6,7 +6,7 @@ The **MMS Compiler** is a command-line tool which can be used to generate Multim
 
 ## Documentation
 
-Please, read the [User's Guide](/UserGuide.pdf).
+Please, read the [Overview](/Overview.pdf) and the [User's Guide](/UserGuide.pdf).
 
 ## Installation
 
