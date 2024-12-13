@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14247332.svg)](https://doi.org/10.5281/zenodo.14247332) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9749/badge)](https://www.bestpractices.dev/projects/9749)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14247331.svg)](https://doi.org/10.5281/zenodo.14247331) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9749/badge)](https://www.bestpractices.dev/projects/9749)
 
 # MMS Compiler
 
