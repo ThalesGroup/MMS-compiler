@@ -1,4 +1,6 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14247331.svg)](https://doi.org/10.5281/zenodo.14247331) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9749/badge)](https://www.bestpractices.dev/projects/9749)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14247331.svg)](https://doi.org/10.5281/zenodo.14247331) 
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:7af2db52c5ea7609704baf3d57c18f20f1394982/)](https://archive.softwareheritage.org/swh:1:dir:7af2db52c5ea7609704baf3d57c18f20f1394982;origin=https://github.com/ThalesGroup/MMS-compiler) 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9749/badge)](https://www.bestpractices.dev/projects/9749)
 
 # MMS Compiler
 
