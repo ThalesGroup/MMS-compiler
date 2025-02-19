@@ -1,2 +1,0 @@
-# Exclude HTML files from the language statistics
-*.htm linguist-vendored
