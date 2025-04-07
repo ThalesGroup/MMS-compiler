@@ -7,4 +7,4 @@
 - Issue and feature tracking is done using GitHub issues and Discussions in this repository.
 - The [Developer Certificate of Origin](https://developercertificate.org/) (DCO) process is followed to ensure developers are following licensing criteria for their
 contributions, including a mandatory sign-off on web-based commits.
-- Please, follow the [securty policied](/SECURITY.md) if you wish to contribute to the project.
+- Please, follow the [securty policies](/SECURITY.md) if you wish to contribute to the project.
