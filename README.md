@@ -20,7 +20,7 @@ If you downloaded the source code release, unpack it into any directory. Create 
 
 ## Contributing
 
-If you are interested in contributing to the MMS Compiler project, start by reading the [Contributing guide](/CONTRIBUTING.md).
+If you are interested in contributing to the MMS Compiler project, start by reading the [Contributing guide](/.github/CONTRIBUTING.md).
 
 ## License
 
